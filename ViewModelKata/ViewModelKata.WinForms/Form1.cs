@@ -16,15 +16,7 @@ namespace ViewModelKata.WinForms
         public Form1()
         {
             InitializeComponent();
-            this.button1.Click += new EventHandler(button1_Click);
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            if (ClickButton != null)
-            {
-                ClickButton();
-            }
+            this.button1.Click += (o, e) => ClickButton(); 
         }
 
         public event Action ClickButton;

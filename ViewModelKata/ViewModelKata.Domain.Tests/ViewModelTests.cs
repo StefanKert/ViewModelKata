@@ -21,7 +21,7 @@ namespace ViewModelKata.Domain.Tests
             var called = false;
             var sut = new ViewModel();
 
-            sut.ShowMessage += () => called = true;
+            sut.ShowMessage += (test) => called = true;
 
             sut.OnShowMessage();
             Assert.True(called);
