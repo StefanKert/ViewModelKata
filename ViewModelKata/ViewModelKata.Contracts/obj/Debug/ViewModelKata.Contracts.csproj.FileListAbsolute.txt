@@ -1,4 +1,0 @@
-G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Contracts\bin\Debug\ViewModelKata.Contracts.dll
-G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Contracts\bin\Debug\ViewModelKata.Contracts.pdb
-G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Contracts\obj\Debug\ViewModelKata.Contracts.dll
-G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Contracts\obj\Debug\ViewModelKata.Contracts.pdb
