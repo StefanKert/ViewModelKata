@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelKata.Domain", "ViewModelKata.Domain\ViewModelKata.Domain.csproj", "{8821659C-8E48-4B9A-9392-97217279D5B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelKata.Domain.Tests", "ViewModelKata.Domain.Tests\ViewModelKata.Domain.Tests.csproj", "{3C214749-82E8-459D-86D1-C9AACF84BAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelKata.Host", "ViewModelKata.Host\ViewModelKata.Host.csproj", "{73970787-AD32-467A-808B-9079245E51C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelKata.Contracts", "ViewModelKata.Contracts\ViewModelKata.Contracts.csproj", "{05FE404E-39B4-4598-BE29-3AE1DCCE43A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelKata.WPF", "ViewModelKata.WPF\ViewModelKata.WPF.csproj", "{9021DB3B-3E72-4194-9A0E-616BE56661E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModelKata.WinForms", "ViewModelKata.WinForms\ViewModelKata.WinForms.csproj", "{2A8BD0BB-7927-4886-B56D-CC1182B4258A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8821659C-8E48-4B9A-9392-97217279D5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8821659C-8E48-4B9A-9392-97217279D5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8821659C-8E48-4B9A-9392-97217279D5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8821659C-8E48-4B9A-9392-97217279D5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C214749-82E8-459D-86D1-C9AACF84BAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C214749-82E8-459D-86D1-C9AACF84BAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C214749-82E8-459D-86D1-C9AACF84BAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C214749-82E8-459D-86D1-C9AACF84BAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73970787-AD32-467A-808B-9079245E51C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73970787-AD32-467A-808B-9079245E51C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73970787-AD32-467A-808B-9079245E51C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73970787-AD32-467A-808B-9079245E51C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FE404E-39B4-4598-BE29-3AE1DCCE43A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FE404E-39B4-4598-BE29-3AE1DCCE43A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FE404E-39B4-4598-BE29-3AE1DCCE43A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FE404E-39B4-4598-BE29-3AE1DCCE43A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9021DB3B-3E72-4194-9A0E-616BE56661E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9021DB3B-3E72-4194-9A0E-616BE56661E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9021DB3B-3E72-4194-9A0E-616BE56661E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9021DB3B-3E72-4194-9A0E-616BE56661E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8BD0BB-7927-4886-B56D-CC1182B4258A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8BD0BB-7927-4886-B56D-CC1182B4258A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8BD0BB-7927-4886-B56D-CC1182B4258A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8BD0BB-7927-4886-B56D-CC1182B4258A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

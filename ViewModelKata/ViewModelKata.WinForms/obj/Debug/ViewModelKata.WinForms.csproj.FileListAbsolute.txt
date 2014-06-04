@@ -1,0 +1,11 @@
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\bin\Debug\ViewModelKata.WinForms.dll.config
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\bin\Debug\ViewModelKata.WinForms.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\bin\Debug\ViewModelKata.WinForms.pdb
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\bin\Debug\ViewModelKata.Contracts.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\bin\Debug\ViewModelKata.Contracts.pdb
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\obj\Debug\ViewModelKata.WinForms.csprojResolveAssemblyReference.cache
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\obj\Debug\ViewModelKata.WinForms.Form1.resources
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\obj\Debug\ViewModelKata.WinForms.Properties.Resources.resources
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\obj\Debug\ViewModelKata.WinForms.csproj.GenerateResource.Cache
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\obj\Debug\ViewModelKata.WinForms.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WinForms\obj\Debug\ViewModelKata.WinForms.pdb

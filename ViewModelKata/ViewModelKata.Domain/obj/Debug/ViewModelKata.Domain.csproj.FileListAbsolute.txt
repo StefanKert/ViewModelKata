@@ -1,0 +1,7 @@
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Domain\bin\Debug\ViewModelKata.Domain.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Domain\bin\Debug\ViewModelKata.Domain.pdb
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Domain\bin\Debug\ViewModelKata.Contracts.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Domain\bin\Debug\ViewModelKata.Contracts.pdb
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Domain\obj\Debug\ViewModelKata.Domain.csprojResolveAssemblyReference.cache
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Domain\obj\Debug\ViewModelKata.Domain.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Domain\obj\Debug\ViewModelKata.Domain.pdb

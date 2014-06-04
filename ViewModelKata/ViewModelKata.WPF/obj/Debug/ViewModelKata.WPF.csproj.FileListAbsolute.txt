@@ -1,0 +1,15 @@
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\ViewModelKata.WPF.csprojResolveAssemblyReference.cache
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\MainWindow.baml
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\MainWindow.g.cs
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\ViewModelKata.WPF_MarkupCompile.cache
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\ViewModelKata.WPF.g.resources
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\ViewModelKata.WPF.Properties.Resources.resources
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\ViewModelKata.WPF.csproj.GenerateResource.Cache
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\bin\Debug\ViewModelKata.WPF.dll.config
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\bin\Debug\ViewModelKata.WPF.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\bin\Debug\ViewModelKata.WPF.pdb
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\bin\Debug\ViewModelKata.Contracts.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\bin\Debug\ViewModelKata.Contracts.pdb
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\ViewModelKata.WPF.dll
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\obj\Debug\ViewModelKata.WPF.pdb
+G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.WPF\bin\Debug\MainWindow.xaml.cs
