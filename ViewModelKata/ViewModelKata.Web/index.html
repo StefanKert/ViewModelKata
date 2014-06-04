@@ -28,7 +28,7 @@
         <script type="text/javascript">
             $(function () {
                 var chat = $.connection.messageHub;
-
+                $.connection.messageHub.logging = true;
                 chat.client.broadcastMessage = function (message) {
                     var encodedMsg = $('<div />').text(message).html();
                     $('#discussion').append('<li>' + encodedMsg + '</li>');

@@ -14,28 +14,29 @@ namespace ViewModelKata.Web
     {
         public bool IsStaticClass = false;
 
+        public MessageHub()
+        {
+            this.ClickButton += () => StaticClickButton();
+            this.ClickButtonChangeProperty += () => StaticClickButtonChangeProperty();
+        }
         public void Show()
         {
         }
 
-        public void ClickButtonInvoker()
-        {
-            if (!this.IsStaticClass)
-                WebApiApplication.MessageHub.ClickButtonInvoker();
-            else
-                ClickButton.Invoke();
-        }
-
-        public void ClickButtonChangePropertyInvoker()
-        {
-            if (!this.IsStaticClass)
-                WebApiApplication.MessageHub.ClickButtonChangeProperty();
-            else
-                ClickButtonChangeProperty.Invoke();
-        }
-
         public event Action ClickButton;
         public event Action ClickButtonChangeProperty;
+
+        public static event Action StaticClickButton;
+        public static event Action StaticClickButtonChangeProperty;
+
+        public void ClickButtonInvoker()
+        {
+            ClickButton.Invoke();
+        }
+        public void ClickButtonChangePropertyInvoker()
+        {
+            ClickButtonChangeProperty.Invoke();
+        }
 
         public void PropertyHasChanged(object sender, PropertyChangedEventArgs propertyChangedEventArgs)
         {

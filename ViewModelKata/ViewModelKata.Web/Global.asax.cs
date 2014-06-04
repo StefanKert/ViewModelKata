@@ -16,16 +16,15 @@ namespace ViewModelKata.Web
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
-        public static MessageHub MessageHub = new MessageHub();
-        public static ViewModel ViewModel = new ViewModel();
-
         protected void Application_Start()
         {
-            MessageHub.IsStaticClass = true;
-            ViewModel.ShowMessage += MessageHub.ShowMessage;
-            ViewModel.PropertyChanged += MessageHub.PropertyHasChanged;
-            MessageHub.ClickButton += ViewModel.OnShowMessage;
-            MessageHub.ClickButtonChangeProperty += () => ViewModel.RandomString = Path.GetRandomFileName();
+            var viewModel = new ViewModel();
+            var messageHub = new MessageHub();
+
+            viewModel.ShowMessage += messageHub.ShowMessage;
+            viewModel.PropertyChanged += messageHub.PropertyHasChanged;
+            MessageHub.StaticClickButton += viewModel.OnShowMessage;
+            MessageHub.StaticClickButtonChangeProperty += () => viewModel.RandomString = Path.GetRandomFileName();
  
             
             GlobalConfiguration.Configure(WebApiConfig.Register);

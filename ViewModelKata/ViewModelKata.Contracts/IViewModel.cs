@@ -9,6 +9,7 @@ namespace ViewModelKata.Contracts
 {
     public interface IViewModel : INotifyPropertyChanged
     {
+        String RandomString { get; set; }
         event Action<String> ShowMessage;
         void OnShowMessage();
     }

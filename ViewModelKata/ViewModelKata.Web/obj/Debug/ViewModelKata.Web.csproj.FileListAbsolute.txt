@@ -45,4 +45,3 @@ G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Web\bin\System.Web.WebPages.
 G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Web\obj\Debug\ViewModelKata.Web.csprojResolveAssemblyReference.cache
 G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Web\obj\Debug\ViewModelKata.Web.dll
 G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Web\obj\Debug\ViewModelKata.Web.pdb
-G:\GitHub\ViewModelKata\ViewModelKata\ViewModelKata.Web\bin\index.html
