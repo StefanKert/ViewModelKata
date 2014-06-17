@@ -24,7 +24,7 @@ namespace ViewModelKata.WPF
         public MainWindow()
         {
             InitializeComponent();
-            this.button1.Click += (o,e) => ClickButton();
+            this.button1.Click += (o, e) => ClickButton();
         }
 
         public event Action ClickButton;
